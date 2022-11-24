@@ -22,4 +22,9 @@ remote repos
     remote repos
 ![first-title](/img/git%20init%20repos.png)
 
-   
+4. Додати в папку Readme файл із звітом до лабораторної, щоб його можна було передивлятись на репозиторію коли переходиш у вітку.
+
+   Terminal
+![first-title](/img/git%20add%20readme%20info.png)
+    remote repos
+![first-title](/img/git%20add%20readme%20repos.png)
